@@ -59,23 +59,6 @@ A VR classroom environment designed to improve engagement and focus for students
 
 ---
 
-## FridgeAI
-
-An AI-powered food recognition system that identifies available ingredients and generates meal ideas to help reduce food waste.
-
-### What Was Built
-
-* Developed an image-based ingredient recognition system
-* Used AI to identify foods available in a user's fridge
-* Generated potential meals based on detected ingredients
-* Designed the project around making existing food easier to use before it goes to waste
-
-### Technologies
-
-`Python` `Artificial Intelligence` `Computer Vision` `Machine Learning` `Image Recognition`
-
----
-
 ## JobTrainVR
 
 A web application that converts a plain-text description of a workplace safety or training scenario into a fully interactive 3D simulation.
