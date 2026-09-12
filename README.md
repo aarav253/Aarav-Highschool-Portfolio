@@ -4,6 +4,10 @@ A collection of projects built at the intersection of **robotics, computer visio
 
 ---
 
+### 🏆 Featured Project: Wastely — [Try the live demo →](https://wastely-client-ten.vercel.app/)
+
+---
+
 ## Wastely (EcoScan)
 
 An AI-powered waste-sorting app that classifies items as trash or recycling from a photo, using Claude's vision API. Originally developed as EcoScan — a computer vision and mechanical sorting prototype — and rebuilt as a full web app with gamification to encourage correct sorting.
