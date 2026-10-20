@@ -67,19 +67,21 @@ A computer vision-based safety prototype designed to identify potential drowning
 
 ## Duds Studio
 
-An automated video production and publishing pipeline built to grow my YouTube channel, producing edits that have earned thousands of views.
+An automated video production and publishing pipeline built to grow my YouTube channel: 30 videos uploaded through the pipeline and 7,600+ views so far (Oct 2026).
 
 ### What Was Built
 
 * Built a Python pipeline that turns images and clips into 60 fps short-form edits with layered visual effects
-* Synced every cut to a drum hit using neural beat tracking (beat_this) and Demucs drum-stem separation
-* Wrote an automated quality checker that compares each render frame by frame against a reference edit (cut timing, audio sync, blur, frozen or black frames) and generates PASS/WARN/FAIL reports
+* In the auto-edit engine, synced every cut to a drum hit using neural beat tracking (beat_this) and Demucs drum-stem separation
+* Wrote an automated quality checker that compares each template render frame by frame against its reference edit (cut timing, audio sync, blur, frozen or black frames) and generates PASS/WARN/FAIL reports
 * Automated publishing through the YouTube Data API with OAuth; uploads stay private until approved
 * Built a Flask dashboard to manage media, rendering, preview, and upload
 
 ### Technologies
 
 `Python` `PyTorch` `OpenCV` `FFmpeg` `MoviePy` `Flask` `YouTube Data API`
+
+**Full code:** [github.com/aarav253/Duds-Studio](https://github.com/aarav253/Duds-Studio)
 
 ---
 
